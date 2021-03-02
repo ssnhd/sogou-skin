@@ -8,13 +8,13 @@
 
 **特点：极简**
 
-* 半径：10 和 13 像素（圆角成正比）
+* 半径：10 和 13 像素（和圆角成正比）
 * 颜色：蓝色、红色、浅红
 * 卷轴模式显示较完美
 
 ![prFvbMlNc3zmYH4](https://i.loli.net/2021/03/03/prFvbMlNc3zmYH4.png)
 
-皮肤背景在 Photoshop 或其他设计软件先制作好，然后打开[搜狗皮肤编辑器](https://pinyin.sogou.com/mac/softdown.php?r=skineditor)进行字体、颜色、位置等修改。
+背景在 Photoshop 或其他设计软件先制作好，然后打开[搜狗皮肤编辑器](https://pinyin.sogou.com/mac/softdown.php?r=skineditor)进行细节修改。
 
 ---
 
