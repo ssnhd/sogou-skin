@@ -12,7 +12,7 @@
 * 颜色：蓝色、红色、浅红
 * 卷轴模式显示较完美
 
-![WuCwZxpNJIMjL6E](https://i.loli.net/2021/03/03/WuCwZxpNJIMjL6E.png)
+![prFvbMlNc3zmYH4](https://i.loli.net/2021/03/03/prFvbMlNc3zmYH4.png)
 
 皮肤背景在 Photoshop 或其他设计软件先制作好，然后打开[搜狗皮肤编辑器](https://pinyin.sogou.com/mac/softdown.php?r=skineditor)进行字体、颜色、位置等修改。
 
