@@ -8,7 +8,7 @@
 
 **特点：极简**
 
-* 半径：10 和 13 像素
+* 半径：10 像素圆角小（下图左上角第一个）， 13 像素圆角稍微大一点
 * 卷轴模式显示较完美
 
 ![sogou](https://tva2.sinaimg.cn/large/008eZBHKgy1go6e22007pj31gg0ta0x9.jpg)
