@@ -4,7 +4,7 @@
 
 圆角：8像素
 
-> 注意：普通屏幕显示效果圆角可能会变大，建议在 Retina 屏幕下使用。
+> 注意：普通屏幕显示效果圆角会变大，建议在 Retina 屏幕下使用。
 
 安装：[下载](https://github.com/liuour/sogou/archive/main.zip)后双击 `.mssf` 文件。
 
