@@ -6,14 +6,48 @@
 
 ---
 
-**特点：极简**
+圆角：名字后面的数字代表圆角大小，`10` 像素圆角小， `13` 像素圆角大
 
-* 半径：10 像素圆角小（下图左上角第一个）， 13 像素圆角稍微大一点
-* 卷轴模式显示较完美
+修改：背景在 Photoshop 或其他软件制作好，然后打开[搜狗皮肤编辑器](https://pinyin.sogou.com/mac/softdown.php?r=skineditor)进行细节调整。
+
+> 注意：可能不能不适配 Retina，圆角变大。
+
+---
+
+极简浅红10
+
+![截屏2021-03-04-上午10.31.45](https://tvax2.sinaimg.cn/large/008eZBHKgy1go7o291g8nj31ao04a0sw.jpg)
+
+
+---
+
+极简百度红10
+
+![zhmuxldHOqD6C54](https://i.loli.net/2021/03/04/zhmuxldHOqD6C54.png)
+
+---
+
+极简百度蓝10
+
+![YBl5oR4njCAHzPx](https://i.loli.net/2021/03/04/YBl5oR4njCAHzPx.png)
+
+---
+
+极简深色橙13
+
+![截屏2021-03-04-上午10.28.34](https://tva3.sinaimg.cn/large/008eZBHKgy1go7nyyex34j31ao04a74h.jpg)
+
+---
+
+极简幽能13
+
+![截屏2021-03-04-上午10.24.38](https://tva4.sinaimg.cn/large/008eZBHKgy1go7nwx7m9ej31ao04a74h.jpg)
+
+---
+
+
 
 ![sogou](https://tva2.sinaimg.cn/large/008eZBHKgy1go6e22007pj31gg0ta0x9.jpg)
-
-背景在 Photoshop 或其他设计软件先制作好，然后打开[搜狗皮肤编辑器](https://pinyin.sogou.com/mac/softdown.php?r=skineditor)进行细节修改。
 
 ---
 
