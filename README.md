@@ -36,7 +36,7 @@
 
 8粉底-白字
 
-![截屏2021-03-04-下午8.50.15](https://tva3.sinaimg.cn/large/008eZBHKgy1go861o8w2aj31ao04a0sy.jpg)
+![截屏2021-03-05-上午1.57.06](https://tvax2.sinaimg.cn/large/008eZBHKgy1go8eta0etij31ao04ejrl.jpg)
 
 ---
 
@@ -66,7 +66,7 @@
 
 卷轴模式
 
-![截屏2021-03-04-下午9.03.44](https://tvax2.sinaimg.cn/large/008eZBHKgy1go86fhm8bhj31fc0jgjus.jpg)
+![截屏2021-03-05-上午2.00.49](https://tva2.sinaimg.cn/large/008eZBHKgy1go8eya1zxgj31fv0iftc3.jpg)
 
 ---
 
