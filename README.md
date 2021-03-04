@@ -1,8 +1,8 @@
 # 搜狗输入法 for Mac 皮肤
 
-圆角：8像素
+特点：极简
 
-修改：背景在 Photoshop 或其他软件制作好，然后打开[搜狗皮肤编辑器](https://pinyin.sogou.com/mac/softdown.php?r=skineditor)进行细节调整。
+圆角：8像素
 
 > 注意：普通屏幕显示效果圆角可能会变大，建议在 Retina 屏幕下使用。
 
