@@ -1,47 +1,70 @@
 # 搜狗输入法 for Mac 皮肤
 
-圆角：名字后面的数字代表圆角大小，`10` 像素圆角小， `13` 像素圆角大
+圆角：8像素
 
 修改：背景在 Photoshop 或其他软件制作好，然后打开[搜狗皮肤编辑器](https://pinyin.sogou.com/mac/softdown.php?r=skineditor)进行细节调整。
 
-> 注意：普通屏幕显示效果圆角会变大，建议在 Retina 屏幕下使用。
+> 注意：普通屏幕显示效果圆角可能会变大，建议在 Retina 屏幕下使用。
 
 ---
 
-极简浅红10
+8白底-红字
 
-![截屏2021-03-04-上午10.31.45](https://tvax2.sinaimg.cn/large/008eZBHKgy1go7o291g8nj31ao04a0sw.jpg)
-
-
----
-
-极简百度红10
-
-![zhmuxldHOqD6C54](https://i.loli.net/2021/03/04/zhmuxldHOqD6C54.png)
+![截屏2021-03-04-下午8.57.28](https://tvax3.sinaimg.cn/large/008eZBHKgy1go865hoia6j31ao04aq35.jpg)
 
 ---
 
-极简百度蓝10
+8白底-蓝字
 
-![YBl5oR4njCAHzPx](https://i.loli.net/2021/03/04/YBl5oR4njCAHzPx.png)
+![截屏2021-03-04-下午8.58.25](https://tva2.sinaimg.cn/large/008eZBHKgy1go866mi07jj31ao04ajrl.jpg)
 
----
+--
 
-极简深色橙13
+8灰底-蓝字
 
-![截屏2021-03-04-上午10.28.34](https://tva3.sinaimg.cn/large/008eZBHKgy1go7nyyex34j31ao04a74h.jpg)
-
----
-
-极简幽能13
-
-![截屏2021-03-04-上午10.24.38](https://tva4.sinaimg.cn/large/008eZBHKgy1go7nwx7m9ej31ao04a74h.jpg)
+![截屏2021-03-04-下午9.00.34](https://tvax1.sinaimg.cn/large/008eZBHKgy1go868nnk6xj31ao04adg2.jpg)
 
 ---
 
+8黄底-幔红
 
+![截屏2021-03-04-下午8.59.30](https://tva1.sinaimg.cn/large/008eZBHKgy1go867lkm1aj31ao04awep.jpg)
 
-![sogou](https://tva2.sinaimg.cn/large/008eZBHKgy1go6e22007pj31gg0ta0x9.jpg)
+---
+
+8粉底-白字
+
+![截屏2021-03-04-下午8.50.15](https://tva3.sinaimg.cn/large/008eZBHKgy1go861o8w2aj31ao04a0sy.jpg)
+
+---
+
+8青绿底-白字
+
+![截屏2021-03-04-下午9.01.37](https://tva4.sinaimg.cn/large/008eZBHKgy1go86a6rxjgj31ao04a3yq.jpg)
+
+---
+
+8幽能
+
+![截屏2021-03-04-下午9.01.53](https://tva2.sinaimg.cn/large/008eZBHKgy1go86aogrqrj31ao04a74i.jpg)
+
+---
+
+8暗色-瓷蓝
+
+![截屏2021-03-04-下午8.55.04](https://tva1.sinaimg.cn/large/008eZBHKgy1go862xioxej31ao04a0sy.jpg)
+
+---
+
+8暗色-橘橙
+
+![截屏2021-03-04-下午8.56.07](https://tvax1.sinaimg.cn/large/008eZBHKgy1go864e3sqsj31ao04a3yq.jpg)
+
+---
+
+卷轴模式
+
+![截屏2021-03-04-下午9.03.44](https://tvax2.sinaimg.cn/large/008eZBHKgy1go86fhm8bhj31fc0jgjus.jpg)
 
 ---
 
