@@ -2,7 +2,7 @@
 
 特点极简；圆角 8 像素；下载 [.mssf](https://github.com/liuour/sogou/archive/main.zip) 文件双击完成安装。
 
-> 注意：普通屏幕显示效果圆角会变大，建议在 Retina 屏幕下使用。
+> 注意：普通屏幕显示效果圆角会变大，建议在 Retina 屏幕下使用，不支持 Windows。
 
 ---
 
