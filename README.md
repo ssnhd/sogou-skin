@@ -1,10 +1,8 @@
 # 搜狗输入法 for Mac 皮肤
 
-特点：极简；圆角：8像素
+特点极简；圆角 8 像素；下载 [.mssf](https://github.com/liuour/sogou/archive/main.zip) 文件双击完成安装。
 
 > 注意：普通屏幕显示效果圆角会变大，建议在 Retina 屏幕下使用。
-
-安装：下载 [.mssf](https://github.com/liuour/sogou/archive/main.zip) 文件，双击即可。
 
 ---
 
