@@ -1,14 +1,13 @@
 # 搜狗输入法 for Mac 皮肤
 ![](https://i.loli.net/2021/04/18/DVP9evoHWNETfXi.png)
 
-[![](https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-%231BA1F3)](https://twitter.com/yifangme) [![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/shurufa1)
----
 特点：极简
 
 圆角：8 像素（普通屏圆角显示会变大，建议使用 Retina 显示器）
 
 安装：下载 [.mssf](https://github.com/liuour/sogou/archive/main.zip) 文件并双击（不支持 Windows）
 
+[![](https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-%231BA1F3)](https://twitter.com/yifangme) [![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/shurufa1)
 ---
 
 8白底-红字
