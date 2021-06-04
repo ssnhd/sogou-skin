@@ -3,7 +3,7 @@
 
 特点：极简
 
-圆角：8 像素（普通屏圆角显示会变大，建议使用 Retina 显示器）
+圆角：8 像素（建议使用 Retina，系统版本不低于 Catalina，不然可能会出现圆角变大或字体变细不美观现象）
 
 安装：下载 [.mssf](https://github.com/liuour/sogou/archive/main.zip) 文件并双击（不支持 Windows）
 
