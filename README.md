@@ -1,9 +1,11 @@
 # 搜狗输入法 for Mac 皮肤
 ![](https://i.loli.net/2021/04/18/DVP9evoHWNETfXi.png)
 
+建议：①使用 Retina 屏幕；②系统版本不低于 Catalina，版本太低会出现字体 UI 不美观现象
+
 特点：极简
 
-圆角：8 像素（建议使用 Retina，系统版本不低于 Catalina，不然可能会出现圆角变大或字体变细不美观现象）
+圆角：8 像素
 
 安装：下载 [.mssf](https://github.com/liuour/sogou/archive/main.zip) 文件并双击（不支持 Windows）
 
