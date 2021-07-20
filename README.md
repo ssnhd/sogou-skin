@@ -7,7 +7,9 @@
 
 安装：下载 [.mssf](https://github.com/liuour/sogou/archive/main.zip) 文件并双击。
 
-注：①使用 Retina 屏幕；②系统版本不低于 Catalina（版本太低会出现字体变细）；③不支持 Windows
+字体：建议使用【冬青黑体简体中文 W3】或【Helvetica】
+
+> 注：使用 Retina 屏幕；系统版本不低于 Catalina（版本太低会出现字体变细）；不支持 Windows
 
 [![](https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-%231BA1F3)](https://twitter.com/yifangme) [![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/v2expro)
 ---
