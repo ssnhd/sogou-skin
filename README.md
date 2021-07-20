@@ -1,5 +1,5 @@
 # 搜狗输入法 for Mac 皮肤
-![](https://i.loli.net/2021/04/18/DVP9evoHWNETfXi.png)
+![](https://i.imgur.com/KxU4Fge.png)
 
 特点：极简
 
