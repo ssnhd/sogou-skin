@@ -7,7 +7,7 @@
 
 安装：下载 [.mssf](https://github.com/liuour/sogou/archive/main.zip) 文件并双击。
 
-字体：建议使用【冬青黑体简体中文 W3】或【Helvetica】
+字体：建议用 `冬青黑体简体中文 W3` 或 `Helvetica`，如果使用 `平方简` 需要打开[搜狗皮肤编辑器](https://pinyin.sogou.com/mac/skineditor.php)重新调整参数。
 
 > 注：使用 Retina 屏幕；系统版本不低于 Catalina（版本太低会出现字体变细）；不支持 Windows
 
