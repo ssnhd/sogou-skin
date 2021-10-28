@@ -1,5 +1,5 @@
 # 搜狗输入法 for Mac 皮肤
-![](https://i.imgur.com/KxU4Fge.png)
+![](https://i.imgur.com/1mF4UMG.png)
 
 特点：极简
 
@@ -7,7 +7,7 @@
 
 安装：下载 [.mssf](https://github.com/liuour/sogou/archive/main.zip) 文件并双击。
 
-字体：建议用冬青黑体简体中文 W3 或 Helvetica（`搜狗8百度红-平方简.mssf` 除外）。
+字体：建议使用冬青黑体简体中文 W3 或 Helvetica（搜狗8百度红-平方简除外）。
 
 
 
@@ -15,6 +15,9 @@
 
 [![](https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-%231BA1F3)](https://twitter.com/yifangme) [![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/v2expro)
 ---
+
+搜狗百度红-平方简
+![](https://i.imgur.com/HOUzp2h.png)
 
 8白底-红字
 
