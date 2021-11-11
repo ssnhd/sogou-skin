@@ -16,7 +16,6 @@
 
 > 注：使用 Retina 屏幕；系统版本不低于 Catalina（版本太低会出现字体变细）；不支持 Windows
 
-[![](https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-%231BA1F3)](https://twitter.com/yifangme) [![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/v2expro)
 ---
 
 搜狗百度红-平方简
