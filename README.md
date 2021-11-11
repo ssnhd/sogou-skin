@@ -1,4 +1,7 @@
 # 搜狗输入法 for Mac 皮肤
+
+[![](https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-%231BA1F3)](https://twitter.com/yifangme) [![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/V2EXPro) 
+
 ![](https://i.imgur.com/1mF4UMG.png)
 
 特点：极简
