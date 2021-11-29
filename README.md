@@ -1,17 +1,12 @@
 # 搜狗输入法 for Mac 皮肤
 
 ![](https://i.imgur.com/1mF4UMG.png)
-
-[![](https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-%231BA1F3)](https://twitter.com/qingmail) [![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/V2EXPro) 
-
-特点：极简
-
-圆角：8 像素
-
-安装：下载 [.mssf](https://github.com/liuour/sogou/archive/main.zip) 文件并双击。
-
-字体：建议使用冬青黑体简体中文 W3 或 Helvetica（搜狗8百度红-平方简除外）。
-
+--- 
+[![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/V2EXPro) 
+* 特点：极简  
+* 圆角：8 像素
+* 安装：下载 [.mssf](https://github.com/liuour/sogou/archive/main.zip) 文件并双击。
+* 字体：建议使用冬青黑体简体中文 W3 或 Helvetica（搜狗8百度红-平方简除外）。
 > 注：使用 Retina 屏幕；系统版本不低于 Catalina（版本太低会出现字体变细）；不支持 Windows
 
 ---
