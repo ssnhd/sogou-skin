@@ -65,5 +65,5 @@
 
 参考：[土拨鼠的黑白配](https://pinyin.sogou.com/skins/detail/view/info/506543)
 
-延伸：[Rime 鼠须管配置方案｜配置文件详解](https://github.com/liuour/rime)
+延伸：[Rime 鼠须管配置方案｜配置文件详解](https://github.com/huatliu/rime)
 
